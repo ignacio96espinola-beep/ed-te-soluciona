@@ -14,3 +14,16 @@ Ed te soluciona es una página web desarrollada como trabajo práctico de Full S
 ## Captura de pantalla
 
 ![Página Ed te soluciona](captura.png)
+
+## Créditos
+
+- Autor: Ignacio Espínola Rodríguez
+- Curso: Diplomatura en Professional Full-Stack Developer
+- Módulo 1 - Unidad 1
+- Trabajo práctico: Antes de React (Unidad N°1: Antes de React)
+
+## Fuentes y créditos de imagen
+
+- MDN Web Docs - HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+- MDN Web Docs - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS  
+- Imagen: Marvin Meyer, Unsplash: https://unsplash.com/photos/SYTO3xs06fU
