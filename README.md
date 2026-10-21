@@ -10,3 +10,7 @@ Ed te soluciona es una página web desarrollada como trabajo práctico de Full S
 1. Clonar el repositorio de GitHub.
 2. Abrir la carpeta del proyecto.
 3. Abrir el archivo `index.html` en un navegador web (Google Chrome u otros).
+
+## Captura de pantalla
+
+![Página Ed te soluciona](captura.png)
