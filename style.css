@@ -1,0 +1,48 @@
+:root {
+    --color-principal: #2F4F9C;
+    --color-secundario: #F5F1E8;
+    --fuente-base: Arial, sans-serif;
+}
+
+body {
+    background-color: var(--color-secundario);
+    color: #222;
+    font-family: var(--fuente-base);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 12px;
+}
+
+#contacto {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 350px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.titulo-articulo {
+    color: var(--color-principal);
+}
+
