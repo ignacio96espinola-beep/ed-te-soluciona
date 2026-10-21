@@ -7,9 +7,12 @@ Ed te soluciona es una página web desarrollada como trabajo práctico de Full S
 
 ## Cómo ejecutar el proyecto
 
-1. Clonar el repositorio de GitHub.
-2. Abrir la carpeta del proyecto.
-3. Abrir el archivo `index.html` en un navegador web (Google Chrome u otros).
+1. Clonar el repositorio ejecutando:
+
+   `git clone https://github.com/ignacio96espinola-beep/ed-te-soluciona.git`
+
+2. Abrir la carpeta `ed-te-soluciona`.
+3. Abrir el archivo `index.html` en un navegador.
 
 ## Captura de pantalla
 
