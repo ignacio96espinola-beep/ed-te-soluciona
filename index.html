@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ed</title>
-
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -14,46 +13,44 @@
         <h1>Ed te soluciona</h1>
 
         <nav>
-    <ul>
-        <li><a href="#inicio">Inicio</a></li>
-        <li><a href="#contenido">Contenido</a></li>
-        <li><a href="#contacto">Contacto</a></li>
-    </ul>
-    
-</nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#contenido">Contenido</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
     </header>
 
     <main>
-
         <article id="contenido">
-        <h2 class="titulo-articulo">¿Qué soluciones ofrecemos?</h2>
-        <p>Le traemos la <strong>solución tecnológica</strong> para su proyecto.</p>
-        <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80"
-     alt="Equipo trabajando con computadoras">
-        <ol>
-            <li>Te ayudamos con tu proyecto nuevo.</li>
-            <li>Hacemos sugerencias de aplicación.</li>
-            <li>Damos seguimiento del proceso completo.</li>
-        </ol>
+            <h2 class="titulo-articulo">¿Qué soluciones ofrecemos?</h2>
+            <p>Le traemos la <strong>solución tecnológica</strong> para su proyecto.</p>
+            <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=600&q=80"
+                alt="Equipo trabajando con computadoras">
+
+            <ol>
+                <li>Te ayudamos con tu proyecto nuevo.</li>
+                <li>Hacemos sugerencias de aplicación.</li>
+                <li>Damos seguimiento del proceso completo.</li>
+            </ol>
         </article>
 
         <form id="contacto">
             <label for="nombre">Nombre:</label>
             <input type="text" id="nombre" name="nombre">
+
             <label for="email">Email:</label>
-                <input type="email" id="email" name="email">
+            <input type="email" id="email" name="email">
+
             <label for="servicio">¿Qué servicio necesitás?</label>
+            <select id="servicio" name="servicio">
+                <option value="Asesoría">Asesoría</option>
+                <option value="Administración">Administración</option>
+                <option value="Operaciones">Operaciones</option>
+            </select>
 
-                <select id="servicio" name="servicio">
-                    <option value="Asesoría">Asesoría</option>
-                    <option value="Administración">Administración</option>
-                    <option value="Operaciones">Operaciones</option>
-                </select>
-
-                <button type="submit">Enviar</button>
+            <button type="submit">Enviar</button>
         </form>
-        
-
     </main>
 
     <footer>
